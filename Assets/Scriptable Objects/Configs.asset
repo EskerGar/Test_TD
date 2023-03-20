@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c8419af92a740e68a231d454690dfb5, type: 3}
+  m_Name: Configs
+  m_EditorClassIdentifier: 
+  _enemyMoveSpeed: 1.2
+  _initialUpgradeCost: 3
+  _killReward: 2
+  _waveTime: 7
+  _initialAttackRange: 3.5
+  _initialAttackSpeed: 0.7
+  _maxUpgradesLevel: 3
+  _enemyHealth: 3
+  _bulletSpeed: 15
+  _maxSpawnRange: 9
+  _attackSpeedUpgradeValue: 0.1
+  _attackRangeUpgradeValue: 2
